@@ -1,6 +1,5 @@
 ##  Olá, eu sou o Italo Henzo 👋
-- 👀 Atualmente estou focado em aprender PHP
-- 📒 Também compreendo e estudo Python, C, Java e Flutter
+- 👀 Atualmente estou focado em desenvolver minhas habilidades como  Web Developer
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
